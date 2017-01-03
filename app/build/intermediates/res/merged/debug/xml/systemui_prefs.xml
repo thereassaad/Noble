@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+                  xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+	<PreferenceCategory android:title="AOD brightness " />
+	
+	<com.wubydax.romcontrol.v2.prefs.MySeekBarPreference android:title="AOD brightness ( AOD ONLY ) " android:key="aod_brightness" android:defaultValue="17" app:minValue="0" app:maxValue="255" app:rebootDevice="true" />
+        
+
+
+</PreferenceScreen>

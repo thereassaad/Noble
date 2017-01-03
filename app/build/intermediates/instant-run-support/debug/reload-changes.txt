@@ -1,0 +1,3 @@
+CHANGED,C:\Android Studio\Noble\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Android Studio\Noble\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\wubydax\romcontrol\v2\R$styleable$override.class
+CHANGED,C:\Android Studio\Noble\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\wubydax\romcontrol\v2\R$xml$override.class

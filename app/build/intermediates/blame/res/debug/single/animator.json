@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Android Studio\\Noble\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fadeout.xml",
+        "source": "C:\\Android Studio\\Noble\\app\\src\\main\\res\\animator\\fadeout.xml"
+    },
+    {
+        "merged": "C:\\Android Studio\\Noble\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fadein.xml",
+        "source": "C:\\Android Studio\\Noble\\app\\src\\main\\res\\animator\\fadein.xml"
+    }
+]
